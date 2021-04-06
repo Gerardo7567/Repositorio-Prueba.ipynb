@@ -1,3 +1,4 @@
+$ jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
 #Actividad Git-GitHub
 "Si puedes soñarlo, puedes programarlo."
 
